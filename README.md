@@ -1,0 +1,3 @@
+# FairerScavs
+
+Adds some config options to make scavengers a bit more fair to fight, namely for their item grab skill and being able to see their inventory (thanks to [ShowBossInventory](https://thunderstore.io/c/riskofrain2/p/LordVGames/ShowBossInventory)). If you have the option to make all scavengers be considered boss spawns, there's also an option to make armor piercing rounds damage bonus not apply to them.

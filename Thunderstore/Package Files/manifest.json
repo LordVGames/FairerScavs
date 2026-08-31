@@ -1,0 +1,11 @@
+{
+	"name": "FairerScavs",
+	"version_number": "1.0.0",
+	"website_url": "https://github.com/LordVGames/FairerScavs",
+	"description": "Makes a few tweaks to scavengers so that they are more fair to fight. Configurable!",
+	"dependencies": [
+		"bbepis-BepInExPack-5.4.2117",
+		"MonoDetour-MonoDetour_BepInEx_5-0.7.15",
+		"LordVGames-ShowBossInventory-1.0.3"
+	]
+}
