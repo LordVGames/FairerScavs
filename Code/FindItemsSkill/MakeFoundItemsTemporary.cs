@@ -16,7 +16,7 @@ namespace FairerScavs.FindItemsSkill;
 [MonoDetourTargets(typeof(EntityStates.ScavMonster.GrantItem))]
 internal static class MakeFoundItemsTemporary
 {
-    private static readonly AssetReferenceT<ExpansionDef> _dlc3AssetReference = new(RoR2BepInExPack.GameAssetPaths.Version_1_39_0.RoR2_DLC3.DLC3_asset);
+    private static readonly AssetReferenceT<ExpansionDef> _dlc3AssetReference = new(RoR2BepInExPack.GameAssetPathsBetter.RoR2_DLC3.DLC3_asset);
     internal static ExpansionDef Dlc3;
 
 
